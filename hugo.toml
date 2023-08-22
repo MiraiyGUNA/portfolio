@@ -1,4 +1,4 @@
-baseURL = 'https://www.miraiy.netlify.app/'
+baseURL = "https://miraiy.netlify.app/"
 languageCode = 'pt-pt'
 title = 'Vitor Marques Portfólio'
 theme = 'hugo-liftoff'
